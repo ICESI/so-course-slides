@@ -1,1 +1,1 @@
-# so-slides
+# Sistemas Operativos - Diapositivas
